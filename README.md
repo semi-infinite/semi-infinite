@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @semi-infinite
 - 👀 I’m interested in ... mathematics and optics. 
-- 🌱 I’m currently learning ... psychology and neuroscience online at the MIT courseware website.
-- 💞️ I’m looking to collaborate on ... idk yet...
+- 🌱 I’m currently self-learning ... psychology and neuroscience online at the free MIT courseware website. 
+- 🧠 I’m looking to collaborate on ... idk yet...
 - 📫 How to reach me ... here...
 
 <!---
